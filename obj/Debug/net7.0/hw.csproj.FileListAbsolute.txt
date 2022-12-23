@@ -1,0 +1,15 @@
+D:\Users\Zver\Desktop\hw\bin\Debug\net7.0\hw.exe
+D:\Users\Zver\Desktop\hw\bin\Debug\net7.0\hw.deps.json
+D:\Users\Zver\Desktop\hw\bin\Debug\net7.0\hw.runtimeconfig.json
+D:\Users\Zver\Desktop\hw\bin\Debug\net7.0\hw.dll
+D:\Users\Zver\Desktop\hw\bin\Debug\net7.0\hw.pdb
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.csproj.AssemblyReference.cache
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.AssemblyInfoInputs.cache
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.AssemblyInfo.cs
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.csproj.CoreCompileInputs.cache
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.dll
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\refint\hw.dll
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.pdb
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\hw.genruntimeconfig.cache
+D:\Users\Zver\Desktop\hw\obj\Debug\net7.0\ref\hw.dll
